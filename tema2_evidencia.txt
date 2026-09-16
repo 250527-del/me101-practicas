@@ -1,0 +1,3 @@
+Nombre: Wilfredo Yupanquiluna
+Fecha: 16/09/2026
+Aprendizaje: Hoy aprendi a configurar entornos de trabajo en RStudio y gestionar repositorios con Git.
